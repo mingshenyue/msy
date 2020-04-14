@@ -1,1 +1,2 @@
 mingshenyue first git project!
+try first commit;
